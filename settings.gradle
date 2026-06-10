@@ -1,0 +1,8 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+include ':term', ':emulatorview', ':libtermexec', ':samples:telnet', ':samples:pathbroadcasts', ':samples:intents'

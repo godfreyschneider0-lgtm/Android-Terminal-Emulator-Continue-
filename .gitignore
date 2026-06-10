@@ -1,0 +1,21 @@
+*.iml
+.gradle
+/local.properties
+.idea/
+.DS_Store
+build/
+/captures
+.externalNativeBuild
+.cxx
+tests/
+# ndk/c++
+.ninja_deps
+.ninja_log
+CMakeCache.txt
+build.ninja
+cmake_install.cmake
+compile_commands.json
+*.bin
+
+# macOS
+.DS_Store
